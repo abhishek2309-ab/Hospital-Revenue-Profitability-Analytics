@@ -30,11 +30,11 @@ Healthcare organizations generate large volumes of operational and financial dat
 
 #### Key Performance Indicators (KPIs)
 
-- 💰 Total Revenue: **$85M**
-- 📈 Total Profit: **$85M**
+- 💰 Total Revenue: **$306M**
+- 📈 Total Profit: **$115.37M**
 - 📊 Profit Margin: **100%**
 - 👥 Total Patients: **5,000**
-- 🏥 Average Patient Visits: **5**
+- 🏥 Average Patient Visits: **61.18K**
 
 #### Business Analysis
 
